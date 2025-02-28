@@ -30,9 +30,9 @@ This Discord bot makes managing and storing friend codes effortless. Users can a
 
 To run the project correctly, you need to install the following dependencies on a Linux system.
 
--   Python 3.8+: Ensure you have Python 3.8 or a newer version.
--   pip: Python's package manager.
-- Required Libraries: The project requires the following libraries to be installed:
+-   **Python 3.8+**: Ensure you have Python 3.8 or a newer version.
+-   **pip**: Python's package manager.
+- **Required Libraries**: The project requires the following libraries to be installed:
   - `discord.py`
   - `psnawp-api`
   - `pytz`
