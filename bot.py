@@ -131,7 +131,7 @@ async def create_messages(conn, thread, platform, color, chunk_size=100):
 
         embed.set_author(
             name=platform_name,
-            icon_url=f"https://vaojin.xyz/static/icons/{platform}-icon.png"
+            icon_url=f"https://yourdomain.com/static/icons/{platform}-icon.png"
         )
 
         if not users_data:
@@ -196,7 +196,7 @@ async def edit_messages(conn, thread, platform, color, chunk_size=100):
 
         embed.set_author(
             name=platform_name,
-            icon_url=f"https://vaojin.xyz/static/icons/{platform}-icon.png"
+            icon_url=f"https://yourdomain.com/static/icons/{platform}-icon.png"
         )
 
         for i in range(0, len(users_data), chunk_size):
