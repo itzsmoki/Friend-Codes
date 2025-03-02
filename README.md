@@ -32,7 +32,7 @@ To run the project correctly, you need to install the following dependencies on 
 
 -   **Python 3.8+**: Ensure you have Python 3.8 or a newer version.
 -   **pip**: Python's package manager.
-- **Required Libraries**: The project requires the following libraries to be installed:
+- **Required Libraries**: The bot requires the following libraries to be installed:
   - `discord.py`
   - `psnawp-api`
   - `pytz`
